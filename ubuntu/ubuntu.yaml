@@ -19,4 +19,4 @@ spec:
         ports:
         - containerPort: 80
         command: ["sleep"]
-        args: ["10000000"]
+        args: ["20000000"]
