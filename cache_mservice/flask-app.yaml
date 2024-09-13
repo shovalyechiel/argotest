@@ -23,6 +23,7 @@ spec:
           value: "redis"
         - name: REDIS_PORT
           value: "6379"
+      imagePullPolicy: Always
 ---
 apiVersion: apps/v1
 kind: Deployment
