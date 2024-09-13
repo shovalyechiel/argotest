@@ -45,7 +45,7 @@ spec:
         ports:
         - containerPort: 6379
         imagePullPolicy: Always
-        ---
+---
 
 apiVersion: v1
 kind: Service
